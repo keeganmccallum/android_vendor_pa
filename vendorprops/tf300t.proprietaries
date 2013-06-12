@@ -1,0 +1,24 @@
+[
+    {
+        "remote":       "github",
+        "account":      "TheMuppets",
+        "repository":   "proprietary_vendor_asus",
+        "target_path":  "vendor/asus",
+        "revision":     "cm-10.1"
+    },
+    {
+        "remote":       "github",
+        "account":      "keeganmccallum",
+        "repository":   "android_kernel_asus_tf300t",
+        "target_path":  "kernel/asus/tf300t",
+        "revision":     "jellybean"
+    }
+    {
+        "remote":       "github",
+        "account":      "keeganmccallum",
+        "repository":   "android_device_asus_tf300t",
+        "target_path":  "device/asus/tf300t",
+        "revision":     "cm-10.1"
+    }
+]
+
